@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
- * Created on: Sep 2020
- * This program ...
+ * Created by: Emre Guzel
+ * Created on: Sep 17
+ * This program say Emre Guzel 
 */
 
-basic.showString('Hello, World!')
+basic.showString('Emre Guzel')
