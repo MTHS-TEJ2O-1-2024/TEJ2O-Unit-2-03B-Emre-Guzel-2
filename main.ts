@@ -9,5 +9,5 @@ area=15
 
 basic.clearScreen()
 basic.pause(1000)
-basic.showString('2*(w+l)='+(2*(6.5+6.5 )+"cm"))
+basic.showString('2*(w+l)='+(2*(4+4 )+"cm"))
 basic.showString('A=L*W'+(3*5)+'cm^2' )
