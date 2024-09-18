@@ -9,7 +9,7 @@
 ## To lint your python code
 
 Run the following command in the terminal, where your *.py file is located:
-
+ls
 ```console
 black --check --diff ./*.py
 ```
