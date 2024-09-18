@@ -9,11 +9,8 @@ Area: 15 cm^2
 from microbit import *
 from time import sleep
 
-
 display.clear()
 
-
-sleep(1)  
-
+sleep(1) 
 
 display.scroll(str(3 + 2))
