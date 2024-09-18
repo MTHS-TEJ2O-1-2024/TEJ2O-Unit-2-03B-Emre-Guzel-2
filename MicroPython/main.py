@@ -8,6 +8,7 @@ This module is a Micro:bit and it can calculate the area and perimeter
 from microbit import *
 from time import sleep
 
+
 display.clear
 
 sleep(1)
